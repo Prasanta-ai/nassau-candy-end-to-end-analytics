@@ -1,0 +1,28 @@
+Columns,Data Type,Missing_Count,Missing_Percentage,Unique Values
+Row ID,int64,0,0,10194
+Order ID,object,0,0,8549
+Order Date,datetime64[ns],0,0,717
+Ship Date,datetime64[ns],0,0,1338
+Ship Mode,object,0,0,4
+Customer ID,int64,0,0,5044
+Country/Region,object,0,0,2
+City,object,0,0,542
+State/Province,object,0,0,59
+Postal Code,object,0,0,654
+Division,object,0,0,3
+Region,object,0,0,4
+Product ID,object,0,0,15
+Product Name,object,0,0,15
+Sales,float64,0,0,88
+Units,int64,0,0,14
+Gross Profit,float64,0,0,121
+Cost,float64,0,0,95
+Shipping Days,int64,0,0,28
+Flag_Invalid_Sales,object,0,0,1
+Flag_Invalid_Units,object,0,0,1
+Flag_Invalid_Cost,object,0,0,1
+Flag_Invalid_Profit,object,0,0,1
+Flag_Profit_Calculation,object,0,0,1
+Flag_Shipping_Date,object,0,0,1
+Flag_Shipping_Duration,object,0,0,1
+Flag_Overall_Quality,object,0,0,1

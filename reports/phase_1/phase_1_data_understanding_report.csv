@@ -1,0 +1,18 @@
+Metric,Values
+Total Rows,10194.0
+Total Columns,18.0
+Missing Values,0.0
+Duplicate,0.0
+Unique Order,8549.0
+Unique Ship Mode,4.0
+Unique Customer,5044.0
+Unique Country,2.0
+Unique Cities,542.0
+Unique State,59.0
+Unique Division,3.0
+Unique Region,4.0
+Unique Product,15.0
+Total Sales,141783.63
+Total Units,38654.0
+Total Profit,93442.8
+Total Cost,48340.83
