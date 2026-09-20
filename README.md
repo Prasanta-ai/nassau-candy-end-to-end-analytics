@@ -294,12 +294,29 @@ nassau-candy-end-to-end-analytics/
 │
 ├── reports/
 │   ├── phase_1/
+│   │   └── phase_1_data_understanding_report.csv
 │   ├── phase_2/
+│   │   └── Phase_2_Data_Quality_Report.csv
 │   ├── profitability/
+│   │   └── Phase_3.1_Profitability_Matric_Calculation_Report.csv
+│   │   └── Phase_3.2_Product_Level_Profitability_Analysis.csv
+│   │   └── Phase_3.3_Division_Level_Performance_Analysis.csv
 │   ├── pareto/
+│   │   └── Phase_3.4_Preto_Analysis_Summary_Report.csv
+│   │   └── Profit_Pareto_Report.csv
+│   │   └── Revenue_Pareto_Report.csv
 │   ├── geographic/
+│   │   └── Phase_3.4_State Concentration & Over-Dependency Analysis_Summary.csv
+│   │   └── Region_Concentration_Analysis.csv
+│   │   └── State_Concentration_Analysis.csv
 │   ├── cost_diagnostics/
+│   │   └── Cost_Diagnostics_Summary.csv
+│   │   └── Cost_Structure_Diagnostics.csv
 │   └── margin_volatility/
+│       └── Division_Margin_Volatility_Report.csv
+│       └── Margin_Volatility_Analysis_Summary.csv
+│       └── Monthly_Company_Margin.csv
+│       └── Product_Margin_Volatility_Report.csv
 │
 ├── charts/
 │
