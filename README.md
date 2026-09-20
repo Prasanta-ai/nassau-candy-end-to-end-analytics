@@ -319,9 +319,22 @@ nassau-candy-end-to-end-analytics/
 │       └── Product_Margin_Volatility_Report.csv
 │
 ├── charts/
+│       └── Company_Monthly_Margin_Trend.png
+│       └── Cost_Diagnostic_Action_Recommendations.png
+│       └── Cost_Ratio_vs_Gross_Margin.png
+│       └── Division_Margin_Volatility_Trend.png
+│       └── Division_Margin_Volatility.png
+│       └── Profit_Pareto_Chart.png
+│       └── Region_Order_Concentration.png
+│       └── Revenue_Pareto_Chart.png
+│       └── State_Revenue_Pareto.png
 │
 └── research_paper/
-    └── Nassau_Candy_Research_Paper.pdf
+│    └── Nassau_Candy_Research_Paper.pdf
+└── presentation/
+     └── Nassau_Candy_Project_Presentation.pptx
+
+
 ```
 
 ---
@@ -368,6 +381,25 @@ research_paper/Nassau_Candy_Research_Paper.pdf
 ```
 
 ---
+
+## 🎤 Project Presentation
+
+A concise presentation of the complete Nassau Candy Distributor analytics project is available here:
+
+[View / Download Project Presentation](presentation/Nassau_Candy_Project_Presentation.pptx)
+
+The presentation covers:
+
+- Business problem and analytical objectives
+- Dataset profile
+- Financial performance
+- Product-level profitability
+- Division performance
+- Pareto concentration
+- Geographic dependency
+- Cost diagnostics
+- Margin volatility
+- Final business recommendations
 
 ## ⚠️ Data & Methodology Notes
 
