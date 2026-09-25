@@ -9,6 +9,7 @@ The project combines **Python-based data cleaning and exploratory analysis**, ph
 - **Live Streamlit Dashboard:** https://candy-analysis-dashboard.streamlit.app/
 - **GitHub Repository:** https://github.com/Prasanta-ai/nassau-candy-end-to-end-analytics
 - **Google Colab Analysis:** https://colab.research.google.com/drive/13ik-v3fcDlTMK70DIWwkud-jEM-ETgHc?usp=sharing
+- **Research Paper** https://zenodo.org/records/22816642
 
 ---
 
