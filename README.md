@@ -10,6 +10,7 @@ The project combines **Python-based data cleaning and exploratory analysis**, ph
 - **GitHub Repository:** https://github.com/Prasanta-ai/nassau-candy-end-to-end-analytics
 - **Google Colab Analysis:** https://colab.research.google.com/drive/13ik-v3fcDlTMK70DIWwkud-jEM-ETgHc?usp=sharing
 - **Research Paper** https://zenodo.org/records/22816642
+- **You Tube Link** https://youtu.be/vGPaaVLGzKc?si=0Rw3cTmgflmwUt5V
 
 ---
 
